@@ -8,6 +8,6 @@ I also mentioned the code that we can do to create,update and remove rug invento
 
 
 Appname : RugInfoApp --> server.js
-subfolders : Public
-                Controllers --> controller.js
-                index.html
+                         Public --> Controllers --> controller.js
+                                    index.html                          
+                
